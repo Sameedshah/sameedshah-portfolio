@@ -18,7 +18,8 @@ const Footer = () => {
                         © 2023 S.S.D 
                     </p>
                     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-                     <Link href={"https://www.linkedin.com/in/muhammad-sameed-shah-947594257/"} target='_blank' className="ml-3 text-gray-700">
+                     
+                        <Link href={"https://www.linkedin.com/in/muhammad-sameed-shah-947594257/"} target='_blank' className="ml-3 text-gray-700">
                         <TfiLinkedin className='text-xl hover:text-[#4b4bff]'/>
                         </Link>
                     </span>
