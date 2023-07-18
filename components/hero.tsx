@@ -1,4 +1,4 @@
-
+"use client"
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
@@ -29,7 +29,7 @@ export const Hero = () => (
                 </h1>
                 <div className='w-[100px] h-[2px] bg-blue-700'> </div>
                 <p className="mb-8 leading-relaxed text-lg font-semibold ">
-                    Whether you're looking for a Next.JS Developer to help bring your ideas to life or need assistance with an existing project, I'm here to help. Please feel free to explore my portfolio and get in touch if you have any questions or would like to work together on a project. Thank you for visiting!
+                    Whether you&apos;re looking for a Next.JS Developer to help bring your ideas to life or need assistance with an existing project, I&apos;m here to help. Please feel free to explore my portfolio and get in touch if you have any questions or would like to work together on a project. Thank you for visiting!
                 </p>
                 <div className="flex justify-center">
                     <Link href={"#Contact"}> 
